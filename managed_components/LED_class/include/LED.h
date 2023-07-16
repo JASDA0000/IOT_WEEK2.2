@@ -1,1 +1,2 @@
-void func(void);
+void LEDON(pin);
+void LEDOFF(pin);
