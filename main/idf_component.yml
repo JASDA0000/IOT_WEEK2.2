@@ -1,0 +1,7 @@
+targets:
+  - esp32
+description: component example of esp32
+dependencies:
+  LED_class:
+    git: https://github.com/JASDA0000/IOT_WEEK2.git 
+    path: components/LED 
